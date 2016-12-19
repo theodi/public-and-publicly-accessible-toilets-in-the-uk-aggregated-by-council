@@ -1,0 +1,382 @@
+_id,activeLooCount,publicLooCount,permissiveLooCount,customerLooCount
+Aberdeen City Council,14,10,2,2
+Aberdeenshire Council,48,43,1,4
+Adur District Council,11,11,0,0
+Allerdale Borough Council,31,30,0,1
+Amber Valley Borough Council,26,21,4,1
+Angus Council,24,24,0,0
+Argyll and Bute Council,72,70,0,2
+Arun District Council,39,31,6,2
+Ashfield District Council,11,11,0,0
+Ashford Borough Council,19,18,0,1
+Aylesbury Vale District Council,19,16,0,3
+Babergh District Council,21,20,1,0
+Barking and Dagenham Borough Council,13,12,1,0
+Barnet Borough Council,36,29,7,0
+Barnsley Borough Council,14,11,1,2
+Barrow-in-Furness Borough Council,5,5,0,0
+Basildon Borough Council,12,11,1,0
+Basingstoke and Deane Borough Council,35,30,4,1
+Bassetlaw District Council,18,16,2,0
+Bath and North East Somerset Council,48,46,2,0
+Bedford Borough Council,19,18,1,0
+Bexley Borough Council,22,19,3,0
+Birmingham City Council,68,63,1,4
+Blaby District Council,12,8,3,1
+Blackburn with Darwen Borough Council,16,14,2,0
+Blackpool Borough Council,35,35,0,0
+Blaenau Gwent Council,11,9,2,0
+Bolsover District Council,11,8,2,1
+Bolton Borough Council,11,10,1,0
+Boston Borough Council,14,14,0,0
+Bournemouth Borough Council,29,29,0,0
+Bracknell Forest Council,12,9,2,1
+Bradford City Council,29,23,6,0
+Braintree District Council,18,17,0,1
+Breckland District Council,17,15,2,0
+Brent Borough Council,40,35,4,1
+Brentwood Borough Council,15,15,0,0
+Bridgend Council,9,8,0,1
+Brighton and Hove City Council,95,74,21,0
+Bristol City Council,60,42,18,0
+Broadland District Council,21,17,2,2
+Bromley Council,72,31,40,1
+Bromsgrove District Council,10,10,0,0
+Broxbourne Borough Council,9,9,0,0
+Broxtowe Borough Council,14,14,0,0
+Burnley Borough Council,20,18,2,0
+Bury Borough Council,5,5,0,0
+Caerphilly Council,6,6,0,0
+Calderdale Borough Council,24,23,1,0
+Cambridge City Council,38,30,7,1
+Camden Borough Council,56,36,20,0
+Cannock Chase District Council,15,11,4,0
+Canterbury City Council,36,34,0,2
+Cardiff Council,26,20,6,0
+Carlisle City Council,17,17,0,0
+Carmarthenshire Council,41,40,1,0
+Castle Point Borough Council,6,6,0,0
+Central Bedfordshire Council,29,26,2,1
+Ceredigion Council,42,41,1,0
+Charnwood Borough Council,31,28,2,1
+Chelmsford City Council,14,13,1,0
+Cheltenham Borough Council,7,5,1,1
+Cherwell District Council,13,12,1,0
+Cheshire East Council,66,66,0,0
+Cheshire West and Chester Council,64,61,3,0
+Chesterfield Borough Council,31,24,7,0
+Chichester District Council,40,35,2,3
+Chiltern District Council,16,13,2,1
+Chorley Borough Council,15,15,0,0
+Christchurch Borough Council,11,9,2,0
+City of Edinburgh Council,64,62,0,2
+City of London Corporation,108,36,72,0
+City of York Council,27,26,0,1
+Clackmannanshire Council,6,6,0,0
+Colchester Borough Council,30,30,0,0
+Comhairle nan Eilean Siar,29,27,2,0
+Conwy Council,44,41,0,3
+Copeland Borough Council,16,16,0,0
+Corby Borough Council,6,5,1,0
+Cornwall Council,203,171,28,4
+Cotswold District Council,49,47,2,0
+Coventry City Council,36,28,8,0
+Craven District Council,26,26,0,0
+Crawley Borough Council,47,29,2,16
+Croydon Borough Council,39,31,6,2
+Dacorum Borough Council,16,16,0,0
+Darlington Borough Council,4,4,0,0
+Dartford Borough Council,10,10,0,0
+Daventry District Council,14,13,1,0
+Denbighshire Council,12,11,0,1
+Derby City Council,33,30,2,1
+Derbyshire Dales District Council,64,61,1,2
+Doncaster Borough Council,15,15,0,0
+Dover District Council,29,23,3,3
+Dudley Borough Council,15,14,0,1
+Dumfries and Galloway Council,86,85,0,1
+Dundee City Council,21,21,0,0
+Durham County Council,65,63,1,1
+Ealing Borough Council,18,17,1,0
+East Ayrshire Council,8,8,0,0
+East Cambridgeshire District Council,15,14,0,1
+East Devon District Council,52,52,0,0
+East Dorset District Council,9,8,1,0
+East Dunbartonshire Council,7,7,0,0
+East Hampshire District Council,21,21,0,0
+East Hertfordshire District Council,9,9,0,0
+East Lindsey District Council,39,36,3,0
+East Lothian Council,41,39,0,2
+East Northamptonshire District Council,9,9,0,0
+East Renfrewshire Council,10,5,4,1
+East Riding of Yorkshire Council,54,52,2,0
+East Staffordshire Borough Council,23,22,0,1
+Eastbourne Borough Council,22,18,4,0
+Eastleigh Borough Council,17,15,1,1
+Eden District Council,44,42,0,2
+Elmbridge Borough Council,18,18,0,0
+Enfield Borough Council,34,27,7,0
+Epping Forest District Council,19,16,1,2
+Epsom and Ewell Borough Council,7,7,0,0
+Erewash Borough Council,28,23,3,2
+Exeter City Council,22,22,0,0
+Falkirk Council,19,19,0,0
+Fareham Borough Council,18,17,0,1
+Fenland District Council,11,11,0,0
+Fife Council,50,45,3,2
+Flintshire Council,4,2,2,0
+Forest Heath District Council,12,11,1,0
+Forest of Dean District Council,25,25,0,0
+Fylde Borough Council,17,14,3,0
+Gateshead Borough Council,51,29,21,1
+Gedling Borough Council,9,9,0,0
+Glasgow City Council,38,35,3,0
+Gloucester City Council,7,7,0,0
+Gosport Borough Council,12,9,2,1
+Gravesham Borough Council,19,17,0,2
+Great Yarmouth Borough Council,24,24,0,0
+Greenwich Borough Council,35,31,2,2
+Guildford Borough Council,41,36,2,3
+Gwynedd Council,95,93,1,1
+Hackney Borough Council,13,12,1,0
+Halton Borough Council,25,24,1,0
+Hambleton District Council,14,14,0,0
+Hammersmith and Fulham Borough Council,13,9,3,1
+Harborough District Council,8,8,0,0
+Haringey Borough Council,27,23,4,0
+Harlow District Council,6,3,3,0
+Harrogate Borough Council,34,34,0,0
+Harrow Borough Council,12,7,4,1
+Hart District Council,5,5,0,0
+Hartlepool Borough Council,10,9,1,0
+Hastings Borough Council,13,13,0,0
+Havant Borough Council,14,14,0,0
+Havering Borough Council,20,15,5,0
+Herefordshire Council,59,49,10,0
+Hertsmere Borough Council,7,7,0,0
+High Peak Borough Council,48,46,1,1
+Highland Council,191,174,13,4
+Hillingdon Borough Council,67,61,4,2
+Hinckley and Bosworth Borough Council,12,12,0,0
+Horsham District Council,41,20,10,11
+Hounslow Borough Council,16,11,5,0
+Hull City Council,13,4,8,1
+Huntingdonshire District Council,23,22,1,0
+Hyndburn Borough Council,5,1,4,0
+Inverclyde Council,22,15,7,0
+Ipswich Borough Council,16,12,1,3
+Isle of Anglesey Council,25,25,0,0
+Isle of Wight Council,70,66,0,4
+Isles of Scilly Council,7,7,0,0
+Islington Borough Council,24,18,6,0
+Kensington and Chelsea Borough Council,28,23,5,0
+Kettering Borough Council,10,4,6,0
+King's Lynn and West Norfolk Borough Council,31,30,0,1
+Kingston upon Thames Borough Council,17,13,4,0
+Kirklees Borough Council,23,16,2,5
+Knowsley Council,5,1,4,0
+Lambeth Borough Council,65,32,32,1
+Lancaster City Council,35,33,2,0
+Leeds City Council,44,35,8,1
+Leicester City Council,47,44,3,0
+Lewes District Council,17,17,0,0
+Lewisham Borough Council,46,36,9,1
+Lichfield District Council,15,15,0,0
+Lincoln City Council,10,10,0,0
+Liverpool City Council,59,30,24,5
+Luton Borough Council,6,6,0,0
+Maidstone Borough Council,20,20,0,0
+Maldon District Council,10,10,0,0
+Malvern Hills District Council,26,24,0,2
+Manchester City Council,42,22,20,0
+Mansfield District Council,8,5,3,0
+Medway Council,43,41,2,0
+Melton Borough Council,4,4,0,0
+Mendip District Council,24,16,8,0
+Merthyr Tydfil Council,5,2,3,0
+Merton Borough Council,22,10,12,0
+Mid Devon District Council,23,23,0,0
+Mid Suffolk District Council,12,12,0,0
+Mid Sussex District Council,29,21,3,5
+Middlesbrough Council,8,8,0,0
+Midlothian Council,7,7,0,0
+Milton Keynes Council,16,14,1,1
+Mole Valley District Council,15,15,0,0
+Monmouthshire Council,20,19,1,0
+Moray Council,22,22,0,0
+Neath Port Talbot Council,16,13,0,3
+New Forest District Council,59,57,0,2
+Newark and Sherwood District Council,32,31,1,0
+Newcastle upon Tyne City Council,27,20,7,0
+Newcastle-under-Lyme Borough Council,18,15,3,0
+Newham Borough Council,28,27,1,0
+Newport Council,9,4,2,3
+North Ayrshire Council,38,33,5,0
+North Devon Council,56,54,1,1
+North Dorset District Council,5,5,0,0
+North East Derbyshire District Council,5,4,1,0
+North East Lincolnshire Council,9,9,0,0
+North Hertfordshire District Council,16,13,2,1
+North Kesteven District Council,4,4,0,0
+North Lanarkshire Council,25,23,2,0
+North Lincolnshire Council,19,18,1,0
+North Norfolk District Council,49,42,2,5
+North Somerset Council,35,32,1,2
+North Tyneside Borough Council,55,45,10,0
+North Warwickshire Borough Council,12,11,1,0
+North West Leicestershire District Council,14,13,0,1
+Northampton Borough Council,7,7,0,0
+Northumberland County Council,86,79,6,1
+Norwich City Council,25,21,2,2
+Nottingham City Council,36,28,4,4
+Nuneaton and Bedworth Borough Council,6,6,0,0
+Oadby and Wigston Borough Council,6,6,0,0
+Oldham Borough Council,43,35,7,1
+Orkney Islands Council,46,46,0,0
+Oxford City Council,31,30,0,1
+Pembrokeshire Council,55,51,2,2
+Pendle Borough Council,9,9,0,0
+Perth and Kinross Council,65,62,1,2
+Peterborough City Council,12,9,3,0
+Plymouth City Council,70,60,10,0
+Poole Borough Council,36,32,3,1
+Portsmouth City Council,24,22,1,1
+Powys Council,51,51,0,0
+Preston City Council,19,18,1,0
+Purbeck District Council,41,39,2,0
+Reading Borough Council,11,11,0,0
+Redbridge Borough Council,28,20,5,3
+Redcar and Cleveland Borough Council,16,15,1,0
+Redditch Borough Council,4,2,2,0
+Reigate and Banstead Borough Council,21,19,2,0
+Renfrewshire Council,9,9,0,0
+Rhondda Cynon Taf Council,29,29,0,0
+Ribble Valley Borough Council,15,15,0,0
+Richmond upon Thames Borough Council,88,29,46,13
+Richmondshire District Council,23,23,0,0
+Rochdale Borough Council,13,12,1,0
+Rochford District Council,12,12,0,0
+Rossendale Borough Council,9,9,0,0
+Rother District Council,23,22,1,0
+Rotherham Borough Council,12,7,2,3
+Rugby Borough Council,12,11,1,0
+Runnymede Borough Council,22,18,3,1
+Rushcliffe Borough Council,14,14,0,0
+Rushmoor Borough Council,12,10,1,1
+Rutland County Council,10,6,4,0
+Ryedale District Council,26,26,0,0
+Salford City Council,19,11,8,0
+Sandwell Borough Council,52,49,3,0
+Scarborough Borough Council,76,75,1,0
+Scottish Borders Council,31,29,0,2
+Sedgemoor District Council,22,19,2,1
+Sefton Borough Council,36,30,5,1
+Selby District Council,8,7,1,0
+Sevenoaks District Council,26,24,1,1
+Sheffield City Council,68,41,24,3
+Shepway District Council,32,32,0,0
+Shetland Islands Council,28,28,0,0
+Shropshire Council,48,43,2,3
+Slough Council,8,3,5,0
+Solihull Borough Council,11,11,0,0
+South Ayrshire Council,13,13,0,0
+South Bucks District Council,15,15,0,0
+South Cambridgeshire District Council,10,10,0,0
+South Derbyshire District Council,25,23,2,0
+South Gloucestershire Council,38,31,7,0
+South Hams District Council,49,49,0,0
+South Holland District Council,11,10,1,0
+South Kesteven District Council,13,12,1,0
+South Lakeland District Council,81,72,8,1
+South Lanarkshire Council,28,28,0,0
+South Norfolk District Council,17,17,0,0
+South Northamptonshire District Council,12,7,1,4
+South Oxfordshire District Council,24,22,2,0
+South Ribble Borough Council,4,4,0,0
+South Somerset District Council,23,19,4,0
+South Staffordshire District Council,9,9,0,0
+South Tyneside Borough Council,8,8,0,0
+Southampton City Council,30,25,2,3
+Southend-on-Sea Borough Council,23,23,0,0
+Southwark Borough Council,46,31,14,1
+Spelthorne Borough Council,24,18,6,0
+St Albans City Council,19,18,1,0
+St Edmundsbury Borough Council,22,14,7,1
+St Helens Borough Council,6,2,4,0
+Stafford Borough Council,23,23,0,0
+Staffordshire Moorlands District Council,35,35,0,0
+Stevenage Borough Council,6,6,0,0
+Stirling Council,36,34,1,1
+Stockport Borough Council,55,15,39,1
+Stockton-on-Tees Borough Council,21,13,8,0
+Stoke-on-Trent City Council,19,15,4,0
+Stratford-on-Avon District Council,26,25,0,1
+Stroud District Council,20,19,1,0
+Suffolk Coastal District Council,31,30,1,0
+Sunderland City Council,24,24,0,0
+Surrey Heath Borough Council,17,17,0,0
+Sutton Borough Council,28,10,17,1
+Swale Borough Council,23,17,5,1
+Swansea Council,30,29,0,1
+Swindon Borough Council,13,11,2,0
+Tameside Borough Council,29,29,0,0
+Tamworth Borough Council,7,2,5,0
+Tandridge District Council,21,18,2,1
+Taunton Deane Borough Council,17,17,0,0
+Teignbridge District Council,80,79,0,1
+Telford and Wrekin Council,37,29,8,0
+Tendring District Council,44,43,1,0
+Test Valley Borough Council,14,13,1,0
+Tewkesbury Borough Council,7,7,0,0
+Thanet District Council,31,31,0,0
+Three Rivers District Council,9,9,0,0
+Thurrock Borough Council,9,7,1,1
+Tonbridge and Malling Borough Council,22,20,0,2
+Torbay Borough Council,58,52,0,6
+Torfaen Council,5,4,0,1
+Torridge District Council,30,29,1,0
+Tower Hamlets Borough Council,27,24,3,0
+Trafford Borough Council,41,40,1,0
+Tunbridge Wells Borough Council,22,21,1,0
+Unknown Area,52,48,1,3
+Uttlesford District Council,11,11,0,0
+Vale of Glamorgan Council,10,10,0,0
+Vale of White Horse District Council,7,7,0,0
+Wakefield City Council,10,7,2,1
+Walsall Borough Council,13,13,0,0
+Waltham Forest Borough Council,26,10,15,1
+Wandsworth Borough Council,37,16,21,0
+Warrington Borough Council,24,17,7,0
+Warwick District Council,27,26,1,0
+Watford Borough Council,8,6,0,2
+Waveney District Council,17,16,1,0
+Waverley Borough Council,24,16,5,3
+Wealden District Council,25,23,0,2
+Wellingborough Borough Council,12,12,0,0
+Welwyn Hatfield Borough Council,7,5,2,0
+West Berkshire Council,23,23,0,0
+West Devon Borough Council,43,42,0,1
+West Dorset District Council,43,41,1,1
+West Dunbartonshire Council,15,11,4,0
+West Lancashire Borough Council,9,9,0,0
+West Lindsey District Council,5,4,1,0
+West Lothian Council,28,28,0,0
+West Oxfordshire District Council,34,34,0,0
+West Somerset District Council,30,28,2,0
+Westminster City Council,78,61,14,3
+Weymouth and Portland Borough Council,13,13,0,0
+Wigan Borough Council,10,7,1,2
+Wiltshire Council,69,65,2,2
+Winchester City Council,25,24,0,1
+Windsor and Maidenhead Council,15,14,1,0
+Wirral Borough Council,51,47,4,0
+Woking Borough Council,14,12,1,1
+Wokingham Borough Council,15,14,1,0
+Wolverhampton City Council,17,15,2,0
+Worcester City Council,19,19,0,0
+Worthing Borough Council,16,15,0,1
+Wrexham Council,13,13,0,0
+Wychavon District Council,26,26,0,0
+Wycombe District Council,18,18,0,0
+Wyre Borough Council,37,37,0,0
+Wyre Forest District Council,20,18,0,2
